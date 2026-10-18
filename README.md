@@ -1,16 +1,18 @@
-::: {align="center"}
+<div align="center">
+
 # Cédric Magne
 
 ### Staff Backend Engineer · TypeScript · Node.js · DeFi · AI Developer Tooling
 
 Building reliable APIs, data-intensive products, and developer
-infrastructure --- from production Web3 systems to open-source tools for
+infrastructure — from production Web3 systems to open-source tools for
 AI-assisted engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-smarttdev-181717?style=flat&logo=github)](https://github.com/smarttdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cédric%20Magne-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/cedricmagne/)
 [![Rness](https://img.shields.io/badge/Building-Rness-6D5EF7?style=flat)](https://rness.dev)
-:::
+
+</div>
 
 ------------------------------------------------------------------------
 
@@ -36,7 +38,7 @@ engineering workflows.
 
 ## What I'm building
 
-### [Rness](https://rness.dev) --- AI engineering harness
+### [Rness](https://rness.dev) — AI engineering harness
 
 An open-source TypeScript CLI for managing engineering context across
 repositories and AI coding agents.
@@ -48,7 +50,7 @@ auditable, and aligned with a project's engineering standards.
 
 `TypeScript` · `Node.js` · `GitHub APIs` · `AI coding workflows`
 
-### [Lendwise](https://lendwise.fi) --- DeFi lending data
+### [Lendwise](https://lendwise.fi) — DeFi lending data
 
 Building data infrastructure and backend services for DeFi lending
 research, aggregating lending-market information across protocols such
@@ -60,7 +62,7 @@ to work with.
 
 `TypeScript` · `Node.js` · `GraphQL` · `DeFi` · `On-chain data`
 
-### Consensys / Infura --- Production Web3 products
+### Consensys / Infura — Production Web3 products
 
 Worked on the Infura dashboard and developer experience at Consensys,
 contributing to a production application used by Web3 developers.
@@ -73,20 +75,20 @@ per day**.
 
 ## Selected engineering experience
 
--   **Consensys** --- Senior Full-Stack Engineer · 2022--2024\
+-   **Consensys** — Senior Full-Stack Engineer · 2022–2024\
     Product development and delivery for Infura, with a focus on
     developer experience, reliable releases, and measurable product
     outcomes.
 
--   **Lendwise** --- Founder & Lead Backend Engineer · 2025--present\
+-   **Lendwise** — Founder & Lead Backend Engineer · 2025–present\
     Backend architecture, DeFi market data pipelines, domain modeling,
     GraphQL API, and open-source tooling.
 
--   **Rness** --- Founder & AI Infrastructure Engineer · 2026--present\
+-   **Rness** — Founder & AI Infrastructure Engineer · 2026–present\
     Building developer infrastructure to bring structure, context
     governance, and traceability to AI-assisted software engineering.
 
--   **Every Finance** --- Engineering · 2021\
+-   **Every Finance** — Engineering · 2021\
     Backend and data-processing improvements, including a **60%
     reduction in portfolio-processing time** and more than **10
     production jobs**.
@@ -112,8 +114,7 @@ per day**.
 ![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat)
 
 **Delivery & tooling**\
-![GitHub
-Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -131,10 +132,12 @@ Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=gith
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
+
 **Interested in backend architecture, DeFi infrastructure, or AI
 developer tools?**
 
 Explore my projects on [GitHub](https://github.com/smarttdev) or connect
 on [LinkedIn](https://www.linkedin.com/in/cedricmagne/).
-:::
+
+</div>
