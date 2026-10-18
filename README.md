@@ -5,7 +5,7 @@
 ### Staff Backend Engineer · TypeScript · Node.js · DeFi · AI Developer Tooling
 
 Building reliable APIs, data-intensive products, and developer
-infrastructure — from production Web3 systems to open-source tools for
+infrastructure - from production Web3 systems to open-source tools for
 AI-assisted engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-smarttdev-181717?style=flat&logo=github)](https://github.com/smarttdev)
